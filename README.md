@@ -1,4 +1,4 @@
-# Facial_Recognition_Attendence_System
+# Facial_Recognition_Attendance_System
 # Python Attendance System
 
 Automate attendance tracking using face recognition.
